@@ -1,0 +1,23 @@
+## Swift / SwiftPM
+.build/
+.swiftpm/
+Package.resolved
+
+## Xcode
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+*.xcworkspace/xcuserdata/
+xcuserdata/
+DerivedData/
+*.xcscmblueprint
+*.xccheckout
+
+## macOS
+.DS_Store
+
+## CocoaPods (consumers)
+Pods/
+
+## Secrets
+.env
+*.env
