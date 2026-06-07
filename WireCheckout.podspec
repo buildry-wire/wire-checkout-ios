@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "WireCheckout"
-  s.version          = "0.1.0"
+  s.version          = "1.0.0"
   s.summary          = "Client-side Swift SDK for presenting a Wire hosted checkout."
   s.description      = <<-DESC
     WireCheckout presents a Wire hosted checkout session in a secure in-app
