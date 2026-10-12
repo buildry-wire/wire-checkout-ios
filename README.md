@@ -102,7 +102,7 @@ All failures surface as `WireCheckoutError` (`.invalidURL`, `.invalidHost`,
 ## Notes on operators
 
 Which payment operators a buyer sees is determined by **the operators enabled on
-your account**. In test/sandbox flows, operators appear as `["sandbox"]`.
+your project**.
 
 ## Documentation
 
